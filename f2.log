@@ -1,0 +1,12 @@
+2019-03-20 18:47:30,697 - 41 - WARNING  - warn message
+2019-03-20 18:47:30,697 - 42 - ERROR    - error message
+2019-03-20 18:47:30,697 - 43 - CRITICAL - critical message
+2019-03-20 18:47:38,623 - 41 - WARNING  - warn message
+2019-03-20 18:47:38,623 - 42 - ERROR    - error message
+2019-03-20 18:47:38,623 - 43 - CRITICAL - critical message
+2019-03-20 18:47:43,448 - 41 - WARNING  - warn message
+2019-03-20 18:47:43,448 - 42 - ERROR    - error message
+2019-03-20 18:47:43,448 - 43 - CRITICAL - critical message
+2019-03-20 18:47:52,419 - 41 - WARNING  - warn message
+2019-03-20 18:47:52,419 - 42 - ERROR    - error message
+2019-03-20 18:47:52,419 - 43 - CRITICAL - critical message
