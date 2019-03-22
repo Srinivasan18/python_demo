@@ -1,0 +1,5 @@
+ERROR:ex:Error!
+Traceback (most recent call last):
+  File "./loger1.py", line 12, in <module>
+    raise RuntimeError
+RuntimeError
